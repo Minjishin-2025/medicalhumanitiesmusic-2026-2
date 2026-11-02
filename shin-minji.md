@@ -1,4 +1,4 @@
-———
+---
 Title: Notre-Dame de Paris
 Year: 1998
 Genre: Musical
@@ -6,7 +6,7 @@ Music: Le pape des fous
 Composer: Riccardo Cocciante
 Disease: Mucopolysaccharidosis
 ICD: E76.0
-———
+---
 
 # Notre-Dame de Paris
 
