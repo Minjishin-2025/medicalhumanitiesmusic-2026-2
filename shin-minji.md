@@ -12,7 +12,7 @@ ICD: E76.0
 
 Notre-Dame de Paris explores disability and social discrimination through Quasimodo, a character with a physical deformity. Although he is mocked and rejected because of his appearance, he possesses human emotions, including love and compassion. His story reveals the prejudice of a society that judges people by their physical characteristics rather than their inner qualities. However, the portrayal of a disabled character as tragic or exceptionally pure also deserves critical consideration. The song “Le Pape des Fous”(https://youtu.be/md3imvLhMjg?si=pJ3oLVgtlCv2cBW0) from the musical Notre-Dame de Paris appears in the context of the Feast of Fools, where Quasimodo is chosen as the “Pope of Fools” because of his unusual appearance. The crowd treats his physical deformity as a source of entertainment, cheering as he wears the crown and sits in a place of honor. The music continues the festive atmosphere while revealing how Quasimodo is perceived through the eyes of society. The crowd’s excitement focuses on his unusual appearance rather than his feelings and humanity, illustrating how a person with a disability can be objectified for public amusement. This scene suggests that disability should be understood not only in terms of physical differences but also in relation to the prejudice and discrimination that people with disabilities experience in society.
 
-
+<img src="./shin-minji.png" alt"콰지모도가 바보들의 교황이라 조롱당하는 장면입니다." style="width:25%;"/>
 
 # 노트르담 드 파리
 
